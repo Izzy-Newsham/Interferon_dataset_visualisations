@@ -9,6 +9,3 @@ These files can be downloaded and viewed in a web browser (they don't render in 
 - `reference_visualisations_top_100_isgs.html`: The Reference dataset, visualised using the log fold change values of the top 100 ISGs.
 - `disease_visualisations.html`: The Disease dataset, visualised using the log fold change values of all available genes (excluding genes with NAs in >10% experiments).
 - `disease_visualisations_top_100_isgs.html`: The Disease dataset, visualised using the log fold change values of the top 100 ISGs.
-
-
-Note: the colours may not work in dark mode.
